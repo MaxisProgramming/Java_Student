@@ -1,0 +1,13 @@
+package main;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			System.out.println("Maxi");
+			System.out.println("6 + 2 = " + plus(6,2));
+	}
+	public static int plus(int a, int b) {
+		return a + b;
+	}
+}
